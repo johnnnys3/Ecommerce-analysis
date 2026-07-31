@@ -1,5 +1,10 @@
 # Pakistan E-Commerce Analytics Dashboard
 
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C)
+![License](https://img.shields.io/badge/license-unspecified-lightgrey)
+
 A data analytics and business intelligence project exploring Pakistan's largest e-commerce dataset. The analysis turns raw transaction records into insights about revenue performance, customer behavior, payment preferences, seasonal trends, and operational opportunities.
 
 ## Project Goals
@@ -104,3 +109,7 @@ This project demonstrates end-to-end data analysis: cleaning, exploration, visua
 **John Kessie**  
 GitHub: [johnnnys3](https://github.com/johnnnys3)  
 Email: johnkessie04@gmail.com
+
+## License
+
+No license specified.
